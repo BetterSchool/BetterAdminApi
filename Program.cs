@@ -29,8 +29,7 @@ namespace BetterSchoolAPI
             app.MapGet("/tbd", (HttpContext httpContext) =>
             {
                 return "to be decided";
-            })
-            .WithName("GetWeatherForecast");
+            });
 
             app.Run();
         }
