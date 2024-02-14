@@ -31,6 +31,11 @@ namespace BetterSchoolAPI
                 return "to be decided";
             });
 
+            app.MapGet("/testingGitIgnore", (HttpContext httpContext) =>
+            {
+                return "working";
+            });
+
             app.Run();
         }
     }
