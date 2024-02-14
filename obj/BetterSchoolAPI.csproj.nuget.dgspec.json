@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Niko\\Desktop\\BetterSchoolAPI\\BetterSchoolAPI\\BetterSchoolAPI.csproj": {}
+    "C:\\Users\\Niko\\Desktop\\BetterSchool\\BetterAdminApi\\BetterSchoolAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Niko\\Desktop\\BetterSchoolAPI\\BetterSchoolAPI\\BetterSchoolAPI.csproj": {
+    "C:\\Users\\Niko\\Desktop\\BetterSchool\\BetterAdminApi\\BetterSchoolAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Niko\\Desktop\\BetterSchoolAPI\\BetterSchoolAPI\\BetterSchoolAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Niko\\Desktop\\BetterSchool\\BetterAdminApi\\BetterSchoolAPI.csproj",
         "projectName": "BetterSchoolAPI",
-        "projectPath": "C:\\Users\\Niko\\Desktop\\BetterSchoolAPI\\BetterSchoolAPI\\BetterSchoolAPI.csproj",
+        "projectPath": "C:\\Users\\Niko\\Desktop\\BetterSchool\\BetterAdminApi\\BetterSchoolAPI.csproj",
         "packagesPath": "C:\\Users\\Niko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Niko\\Desktop\\BetterSchoolAPI\\BetterSchoolAPI\\obj\\",
+        "outputPath": "C:\\Users\\Niko\\Desktop\\BetterSchool\\BetterAdminApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Niko\\AppData\\Roaming\\NuGet\\NuGet.Config",

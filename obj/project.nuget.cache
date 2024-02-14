@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/JyfDhTe7kX9E1oY4mqMV4t9RY5g/Szzxg+C/lbvnmQFA8VjMY5vuPkjX3l/0ADj04VF58IO1OirDt8ryysTGA==",
+  "dgSpecHash": "CCf5JttOrZmy4ifXxF4eLZaIKydiM2/l9latrWTA3GppKhweonHKqO2cfAnGmpN8Nw08n7LpDT960HT4hOL+Ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Niko\\Desktop\\BetterSchoolAPI\\BetterSchoolAPI\\BetterSchoolAPI.csproj",
+  "projectFilePath": "C:\\Users\\Niko\\Desktop\\BetterSchool\\BetterAdminApi\\BetterSchoolAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Niko\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Niko\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
