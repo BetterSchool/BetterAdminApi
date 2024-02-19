@@ -1,4 +1,4 @@
-﻿namespace DB_Layer_API.Models
+﻿namespace RepoAPI.Models
 {
     public class Person
     {
